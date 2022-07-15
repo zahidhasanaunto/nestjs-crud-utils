@@ -41,7 +41,7 @@ npm i nestjs-crud-utils class-transformer class-validator @nestjs/typeorm typeor
 
 - [**Controller**](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Controllers) - provides `@Crud()` decorator for endpoints generation, global configuration, validation, helper decorators ([docs](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Controllers))
 - [**Request Options**](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Requests) - provides a full range of path and query parameters parsing/validation to help you build rich RESTful APIs ([docs](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Requests))
-- [**Services**](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Services) - provides a CRUD service for relational databases build with TypeORM ([docs](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Services))
+- [**Service**](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Services) - provides a CRUD service for relational databases build with TypeORM ([docs](https://github.com/zahidhasanaunto/nestjs-crud-utils/wiki/Services))
 
 ## License
 
